@@ -1,7 +1,7 @@
 {
-  "name": "hsc-genai-backend",
+  "name": "shikkha-shohayok-backend",
   "version": "1.0.0",
-  "description": "Backend API for HSC GenAI Prep",
+  "description": "Backend server for Shikkha Shohayok App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,6 +17,6 @@
     "nodemon": "^3.1.0"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": ">=16.0.0"
   }
 }
